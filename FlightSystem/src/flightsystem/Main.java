@@ -9,8 +9,7 @@ import Vista.*;
 public class Main {
 
     public static void main(String[] args) {
-        Menu m=new Menu();
-        //Bienvenido b=new Bienvenido();
+        Bienvenido b=new Bienvenido();
     }
 
 }
